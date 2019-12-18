@@ -1,3 +1,4 @@
+README.md
 # Commit Message Emoji
 
 Every commit is important.
